@@ -47,7 +47,7 @@ except ImportError:
 # ===========================================================================
 
 # Render / Environment Variable se token lega
-BOT_TOKEN = os.getenv("8988973857:AAF-CF6wJut88e_3Qle56Q2fMtmklvUjkHI")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Admin Credentials
 ADMIN_ID = 7552507251
